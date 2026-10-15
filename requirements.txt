@@ -6,7 +6,7 @@ langchain==1.3.18
 langchain-core==1.6.2
 langchain-community==0.4.2
 langchain-classic==1.0.8
-langchain-text-splitters==1.1.2
+langchain-text-splitters==1.1.3
 langchain-experimental==0.4.1
 
 # =========================================================
@@ -27,7 +27,7 @@ ollama==0.6.2
 # LangGraph / Agent 编排 (稳定版 1.2.x)
 # 作用：构建 Agent、状态图、多步骤工作流、检查点、PostgreSQL 持久化
 # =========================================================
-langgraph==1.2.11
+langgraph==1.2.12
 langgraph-prebuilt==1.1.0
 langgraph-checkpoint==4.2.0
 langgraph-checkpoint-postgres==3.1.2
